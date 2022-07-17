@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^2.3.27"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.10.1"
+  }
+}
