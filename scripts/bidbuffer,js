@@ -1,0 +1,3 @@
+// the bid buffer in basis points
+const bufferBps = 5_00; // 5%
+await contract.setBidBufferBps(bufferBps);
